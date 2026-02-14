@@ -1,6 +1,6 @@
 """
 Configuration file for CryptoTrust-6G Experiment
-An Adaptive Cryptographic Framework for Trustworthy AI in 6G Networks
+A Hierarchical Risk-Adaptive Framework for Ensuring AI Trustworthiness in Quantum-Resistant 6G Networks
 """
 
 import os
