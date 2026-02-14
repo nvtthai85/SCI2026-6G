@@ -1,6 +1,6 @@
-# CryptoTrust-6G: Adaptive Cryptographic Framework Experiment
+# A Hierarchical Risk-Adaptive Framework for Ensuring AI Trustworthiness in Quantum-Resistant 6G Networks
 
-**An Adaptive Cryptographic Framework for Ensuring Trustworthy Artificial Intelligence in Ultra-Reliable Low-Latency 6G Networks**
+**A Hierarchical Risk-Adaptive Framework for Ensuring AI Trustworthiness in Quantum-Resistant 6G Networks**
 
 ## Overview
 
